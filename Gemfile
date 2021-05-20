@@ -19,7 +19,7 @@ gem "rack", ">= 2.1.4"
 gem "kramdown", ">= 2.3.1"
 gem 'liquid', '4.0.3'
 gem 'minima', '2.5.1'
-gem 'nokogiri', '1.11.0'
+gem 'nokogiri', '1.11.4'
 gem 'rouge', '3.0'
 gem 'safe_yaml', '1.0.5'
 gem 'html-pipeline', '2.12.3'
